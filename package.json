@@ -1,0 +1,16 @@
+{
+  "name": "blinkr",
+  "version": "0.0.0",
+  "description": "silly app to play with LEDs on my raspberry pi",
+  "main": "blinkin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD",
+  "dependencies": {
+    "onoff": "~1.0.3",
+    "prompt": "^0.2.14",
+    "wiring-pi": "^2.1.0"
+  }
+}
